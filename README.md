@@ -42,13 +42,21 @@ A cozy Christmas fireplace scene sets the festive mood.
 ---
 
 ## 📂 What’s Included in This Repository?
-- **Dashboard File**: `Christmas_Theme_Dashboard.pbix`
+- ### **Dashboard & Data**
+- `Christmas_Theme_Dashboard.pbix` – Power BI Dashboard
+- `Christmas Sales and Trends.csv` – Source dataset
 - **Screenshots**:
   - `Welcome_Page.png`
   - `Sales_Insights.png`
   - `Product_Insights.png`
   - `Customer_Insights.png`
 
+## Dataset Summary
+The dataset includes transaction records for 10,000 entries with 25 columns. Some highlights:
+
+- **Customer Information**: Age, Gender, Location, Satisfaction Ratings
+- **Product Details**: Categories, Pricing, Discounts, Shipping Methods
+- **Order Details**: Online/Offline, Payment Types, and Event Impacts
 ---
 
 ## 🎄 How to Experience the Festive Data
