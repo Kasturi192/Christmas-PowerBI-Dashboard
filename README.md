@@ -43,7 +43,7 @@ A cozy Christmas fireplace scene sets the festive mood.
 
 ## 📂 What’s Included in This Repository?
 - ### **Dashboard & Data**
-- `Christmas_Theme_Dashboard.pbix` – Power BI Dashboard
+- `Christmas_Sales_Trends_Dashboard.pbix` – Power BI Dashboard
 - `Christmas Sales and Trends.csv` – Source dataset
 - **Screenshots**:
   - `Welcome_Page.png`
