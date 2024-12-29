@@ -17,7 +17,7 @@ I’ve designed this dashboard with creativity, precision, and, of course, Chris
 ### Page 1: Welcome – Step Into the Festive Magic
 
 **Key Metrics:**
-- 🎉 **Total Sales**: $1.65M
+- 🎉 **Total Sales**: $1,654.26k
 - 🛍 **Total Transactions**: 10K
 - 😊 **Customer Satisfaction**: 3.0
 - 📦 **Total Quantity Sold**: 30.11K
